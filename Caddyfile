@@ -1,0 +1,6 @@
+:80 :443 :2015
+tls off
+git https://github.com/pspusa/media-resources /app/files
+
+root /app/files/dist
+browse
