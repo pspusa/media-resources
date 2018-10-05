@@ -24,6 +24,9 @@ yarn-error.log*
 # ignore copyrighted fonts
 */fonts/frutiger-black
 
+# compiled assets
+dist/*
+
 # Runtime data
 pids
 *.pid
